@@ -62,7 +62,7 @@
 
 				<div class="navbar-brand">
 				<a href="index.html">
-				<img src="assets/img/logo/unity_white.jpg" alt="Logo"/>
+				<img src="assets/img/logo/bobba_health.jpg" alt="Logo"/>
 				</a>
 				</div>
 				</div><!--/end responsive container-->
@@ -315,7 +315,7 @@
 		<div class="row">
 		<!-- About -->
 		<div class="col-md-3" style="margin-bottom: 40px;">
-		<a href="index.html"><img id="logo-footer" class="footer-logo" src="assets/img/logo/unity_white.jpg" alt=""/></a>
+		<a href="index.html"><img id="logo-footer" class="footer-logo" src="assets/img/logo/bobba_health.jpg" alt=""/></a>
 		<p>At Bobba Hospital, we are convinced that 'quality' and 'lowest cost' are not mutually exclusive when it comes to healthcare delivery.</p>
 		<p>Our mission is to deliver high quality, affordable healthcare services to the broader population in India.</p>
 		</div><!--/col-md-3-->
